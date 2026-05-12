@@ -58,7 +58,8 @@ React.js • Next.js • TypeScript • Tailwind CSS
 
 ## 📫 Contacto
 
-📧 Email: purvesjulieta11@gmail.com
+📧 Email: illegirl2003@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/julieta-purves
 
 ---
